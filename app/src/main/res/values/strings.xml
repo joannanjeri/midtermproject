@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">midtermproject</string>
+<!--    <string name="welcome_message">Welcome to the game!</string>-->
+<!--    <string name="play_game">Play Game</string>-->
+<!--    <string name="view_high_scores">View High Scores</string>-->
+<!--    <string name="score_message">%1$s score: %2$d. Play another game?</string>-->
+    <string name="play_another_game_prompt">Play another game?</string>
+    <string name="welcome_to_the_game">Welcome to the game!</string>
+
+</resources>
