@@ -19,6 +19,9 @@ The following **extensions** are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+![midtermfinal](https://github.com/joannanjeri/midtermproject/assets/112664855/57e6c66f-127b-4a85-97a6-27c64e7425d1)
+
+
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
